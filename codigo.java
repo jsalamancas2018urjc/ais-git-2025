@@ -1,6 +1,11 @@
 /*
- Apache 2.0. see LICENSE
+ Apache License
+ Version 2.0, January 2004
+ http://www.apache.org/licenses/
+ Terms and Conditions for use, reproduction, and distribution   
  */
-public static void main(String[] args) {
-    System.out.println("Hello, World!");
+public class codigo {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
